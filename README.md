@@ -34,7 +34,7 @@ The core objective of the exercise is to help the company minimize the credit lo
   customer will default of pay in future
 - For the given case study, "Current" status rows will be ignored
 
-- ## Data Cleaning
+## Data Cleaning
 - No header, footers, summary or Total rows found.
 - There were 1140 rows present of loan_status=‘current’ which has been deleted as loan_status =‘current’ does not
 participate in analysis.
